@@ -1,5 +1,9 @@
 # WorkSpace : 운동인을 위한 추천 및 매칭 플랫폼
 
+<img src="https://img.notionusercontent.com/s3/prod-files-secure%2F4dd29acc-ae82-4711-859e-7887147375b9%2Fdf00d98a-d075-4583-a4c0-327be7b574d7%2FIMG_1056.jpg/size/w=2000?exp=1741764235&sig=AxPGPZYVC-4NBQE2xFb0kBZhbjqwagFREqm2zk3fq18"/></a>
+
+
+
 ### 멀티캠퍼스 25기 최종프로젝트 - 추천 및 매칭 서비스 team
 
 - 개발 기간 : 2024.09.23 ~ 2024.11.28
